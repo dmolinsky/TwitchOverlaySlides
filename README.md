@@ -2,6 +2,7 @@
 
 **Slides as an overlay for Twitch streams**  
 This project displays alternating prompts to encourage viewers to follow, join Discord, and subscribe.
+From a codepen I made a few years ago (https://codepen.io/Dianamolinsky/pen/MWeKLYy)
 
 ## Overview
 
